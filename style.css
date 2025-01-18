@@ -126,7 +126,7 @@ footer {
 
 @media (min-width: 550px) {
   header {
-    background-color: #ff7f27;
+    /* background-color: #ff7f27; */
     border: none;
     margin-bottom: 0;
   }
