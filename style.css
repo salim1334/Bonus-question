@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  width: 550px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  height: 110px;
+  background-color: #ed1c24;
+  width: 100%;
+}
+
+.lists {
+  display: flex;
+  
+}
